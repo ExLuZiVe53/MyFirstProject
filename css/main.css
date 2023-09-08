@@ -180,7 +180,7 @@ nav.main-nav {
 	height: 15px;
 	color: #FFFFFF;
 	margin: 0 auto;
-	display: none;
+	/* display: none; */
 }
 
 .btn__icon{
