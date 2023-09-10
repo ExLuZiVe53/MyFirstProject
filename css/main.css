@@ -1914,7 +1914,7 @@ textarea {
 /* Small: 576px - 767px */
 @media (max-width: 767px) {
 	.container {
-		max-width: 540px;
+		max-width: 100%;
 	}
 	h1.offer__title {
 		font-size: 31px;
@@ -2354,6 +2354,15 @@ textarea {
 	#btn-open {
 		display: none;
 	}
+
+	.tel-number {
+		display: none;
+	}
+
+	.nav {
+    	justify-content: space-evenly;
+	}
+
 	.card-wrapper_single {
     	margin-right: 0;
 	}
